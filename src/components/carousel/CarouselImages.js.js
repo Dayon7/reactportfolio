@@ -27,7 +27,7 @@ import laptop1 from '../images/laptop1.jpg'
                     <div  className={classes.h2}> 
                     <h1> I love building</h1>
                     <h1>THINGS!!</h1>
-                    <a href="https://github.com/Dayon7" rel="opener noreferrer" target="_blank">VIEW PROJECTS   <GoProject/></a>
+                    <a href="https://github.com/Dayon7" rel="opener noreferrer" target="_blank">VIEW PROJECTS <GoProject/></a>
                     </div>
                 </div>
                 {/* <div className={classes.image_container}>
