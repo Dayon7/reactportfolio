@@ -23,7 +23,7 @@ class Education extends Component {
                                                     <FaSchool />     
                                                 </div>
                                                 <div className={classes.label}>
-                                                <h2 > Developer Journey  <span>2016-Present</span></h2>
+                                                <h2 > Developer Journey  <span>2016</span></h2>
                                                 <p> My journey as a software/web developer begins. I begin to make websites for local businessess with HTML,CSS, and javascript. </p>
                                                 </div>
                                             </article>
@@ -34,8 +34,8 @@ class Education extends Component {
                                                 <MdSchool />
                                                 </div>
                                                 <div className={classes.label}>
-                                                <h2 >Associates Degree <span>2017-Present</span></h2>
-                                                <p>I'm currently completing my associates degree from Montgomery County Community College and will be finished in December 2021. </p>
+                                                <h2 >Associates Degree <span>2021</span></h2>
+                                                <p>Associates degree from Montgomery County Community College. </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
